@@ -6,8 +6,6 @@
 
 Criação de sites • Projetos web • Desenvolvimento de servidores
 
-[![Black Wolf](https://img.shields.io/badge/Projeto_Black_Wolf-111827?style=for-the-badge&logo=cloudflare&logoColor=67E8F9)](https://crimson-band-5552.marlonverissimo480.workers.dev/)
-
 </div>
 
 ---
@@ -17,12 +15,6 @@ Criação de sites • Projetos web • Desenvolvimento de servidores
 Sou o Marlon, também conhecido como **OhDark**. Desenvolvo sites e exploro soluções para servidores, com interesse em interfaces bem organizadas e ferramentas úteis no dia a dia.
 
 Aprendo colocando as ideias em prática: criando, testando e melhorando cada projeto. Gosto de trocar conhecimento e colaborar na resolução de problemas com código.
-
-## Projetos em destaque
-
-| Projeto | Apresentação | Acessar |
-| --- | --- | --- |
-| **Black Wolf · Premium** | Projeto web na versão premium. | [Ver site](https://crimson-band-5552.marlonverissimo480.workers.dev/) |
 
 ## Tecnologias
 
