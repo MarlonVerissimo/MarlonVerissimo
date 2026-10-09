@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ohdark-banner.svg" width="100%" alt="Marlon Verissimo · OhDark — Web, código e servidores">
+  <img src="./assets/ohdark-banner.svg" width="100%" alt="Dark · OhDark — Web, código e servidores">
 </p>
 
 <div align="center">
